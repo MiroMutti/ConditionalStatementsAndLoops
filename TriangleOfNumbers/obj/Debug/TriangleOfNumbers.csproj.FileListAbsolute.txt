@@ -1,0 +1,5 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

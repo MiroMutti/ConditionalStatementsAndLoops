@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\obj\Debug\RestaurantDiscount.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

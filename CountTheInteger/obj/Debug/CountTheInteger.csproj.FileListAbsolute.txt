@@ -1,0 +1,6 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\bin\Debug\CountTheInteger.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\bin\Debug\CountTheInteger.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\bin\Debug\CountTheInteger.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\obj\Debug\CountTheInteger.csprojResolveAssemblyReference.cache
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\obj\Debug\CountTheInteger.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CountTheInteger\obj\Debug\CountTheInteger.pdb

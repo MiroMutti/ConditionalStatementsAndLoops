@@ -1,0 +1,6 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\bin\Debug\WordInPlural.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\bin\Debug\WordInPlural.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\bin\Debug\WordInPlural.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\obj\Debug\WordInPlural.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\WordInPlural\obj\Debug\WordInPlural.pdb

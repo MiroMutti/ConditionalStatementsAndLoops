@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\bin\Debug\ChooseADrink.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\bin\Debug\ChooseADrink.pdb
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\obj\Debug\ChooseADrink.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\obj\Debug\ChooseADrink.exe
+c:\users\cveto\onedrive\documents\visual studio 2017\Projects\ConditionalStatementAndLoops\ChooseADrink\obj\Debug\ChooseADrink.pdb

@@ -1,0 +1,5 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\FiveDifferentNumbers\obj\Debug\FiveDifferentNumbers.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\FiveDifferentNumbers\obj\Debug\FiveDifferentNumbers.pdb

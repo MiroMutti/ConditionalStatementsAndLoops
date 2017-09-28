@@ -1,0 +1,6 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\bin\Debug\Hotel.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\bin\Debug\Hotel.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\obj\Debug\Hotel.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\Hotel\obj\Debug\Hotel.pdb

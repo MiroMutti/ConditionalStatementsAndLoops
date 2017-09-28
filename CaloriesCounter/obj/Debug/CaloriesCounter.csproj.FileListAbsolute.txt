@@ -1,0 +1,6 @@
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\obj\Debug\CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\cveto\OneDrive\Documents\Visual Studio 2017\Projects\ConditionalStatementAndLoops\CaloriesCounter\obj\Debug\CaloriesCounter.pdb
